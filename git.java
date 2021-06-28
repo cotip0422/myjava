@@ -6,5 +6,7 @@ public class git {
         String git;
         git = "good";
         System.out.println(git);
+        int level;
+        level = 1;
     }
 }
