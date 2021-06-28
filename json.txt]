@@ -1,0 +1,7 @@
+json{
+    name: json1
+    main: test
+    public: true
+}
+git config --global user.name "cotip0422"
+git config --global user.email "cotip0422@gmail.com"
