@@ -8,5 +8,6 @@ public class git {
         System.out.println(git);
         int level;
         level = 1;
+        System.out.println(level);
     }
 }
